@@ -238,12 +238,14 @@ Is it visibly electric?<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:
     <node id="n17">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="161.55576107085" width="247.32961055929684" x="-528.9592132798373" y="256.2025072324011"/>
+          <y:Geometry height="193.5085187180561" width="247.32961055929684" x="-528.9592132798373" y="240.226128408798"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="145.328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="222.431640625" x="12.448984967148476" xml:space="preserve" y="8.11381803542497">Look for a train that accepts
-bikes - other trains cannot
-be boarded!
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="173.59375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="222.431640625" x="12.448984967148363" xml:space="preserve" y="9.957384359028083">Look for a train that accepts
+bikes - ASK at the counter. 
+You CANNOT board ICS, but on 
+other trains this is a matter of 
+discussion.
 
 ATTENTION: Room for the bike is
 determined only on the train!

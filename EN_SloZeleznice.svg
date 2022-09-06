@@ -159,20 +159,22 @@
       <text x="-649.1045" xml:space="preserve" y="160.7028" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">1,5 EUR on the train (CASH)!</text>
     </g>
     <g fill="rgb(255,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,688,491)" stroke="rgb(255,204,0)">
-      <rect x="-528.9592" width="247.3296" height="161.5558" y="256.2025" clip-path="url(#clipPath2)" stroke="none"/>
+      <rect x="-528.9592" width="247.3296" height="193.5085" y="240.2261" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,688,491)" stroke-linecap="butt">
-      <rect fill="none" x="-528.9592" width="247.3296" height="161.5558" y="256.2025" clip-path="url(#clipPath2)"/>
-      <text x="-492.8452" y="277.9179" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">Look for a train that accepts</text>
-      <text x="-488.9516" y="292.0507" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">bikes - other trains cannot</text>
-      <text x="-442.1733" y="306.1835" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">be boarded!</text>
-      <text x="-407.2719" y="320.3163" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve"> </text>
-      <text x="-508.396" y="334.4491" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">ATTENTION: Room for the bike is</text>
-      <text x="-495.9126" y="348.5819" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">determined only on the train!</text>
-      <text x="-495.5698" y="362.7148" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">Your ride is NOT guaranteed,</text>
-      <text x="-514.5103" y="376.8476" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">that's why there is an extra charge </text>
-      <text x="-460.56" y="390.9804" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">ONLY for the bike</text>
-      <text x="-443.3686" y="405.1132" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">on the train!</text>
+      <rect fill="none" x="-528.9592" width="247.3296" height="193.5085" y="240.2261" clip-path="url(#clipPath2)"/>
+      <text x="-492.8452" y="263.7851" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">Look for a train that accepts</text>
+      <text x="-490.6391" y="277.9179" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">bikes - ASK at the counter. </text>
+      <text x="-503.3774" y="292.0507" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">You CANNOT board ICS, but on </text>
+      <text x="-500.9135" y="306.1835" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">other trains this is a matter of </text>
+      <text x="-439.7387" y="320.3163" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">discussion.</text>
+      <text x="-407.2719" y="334.4491" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve"> </text>
+      <text x="-508.396" y="348.5819" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">ATTENTION: Room for the bike is</text>
+      <text x="-495.9126" y="362.7148" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">determined only on the train!</text>
+      <text x="-495.5698" y="376.8476" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">Your ride is NOT guaranteed,</text>
+      <text x="-514.5103" y="390.9804" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">that's why there is an extra charge </text>
+      <text x="-460.56" y="405.1132" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">ONLY for the bike</text>
+      <text x="-443.3686" y="419.246" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">on the train!</text>
     </g>
     <g fill="rgb(255,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,688,491)" stroke="rgb(255,204,0)">
       <path d="M331.1094 695 L417 621 L502.8906 695 L417 769 Z" fill-rule="evenodd" clip-path="url(#clipPath2)" stroke="none"/>
@@ -271,10 +273,10 @@
       <path fill="none" d="M-324.8838 -32 L-557 -32 L-561.375 -31.375 L-564.5 -29.5 L-566.375 -26.375 L-567 -22 L-567 110.1013" clip-path="url(#clipPath2)"/>
       <path d="M-567 118.1013 L-562 106.1013 L-567 109.1013 L-572 106.1013 Z" clip-path="url(#clipPath2)" stroke="none"/>
       <text x="-604.513" xml:space="preserve" y="-2.5061" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">NO</text>
-      <path fill="none" d="M-461.0273 149.1013 L-415.2944 149.1013 L-410.9194 149.7263 L-407.7944 151.6013 L-405.9194 154.7263 L-405.2944 159.1013 L-405.2944 248.2025" clip-path="url(#clipPath2)"/>
-      <path d="M-405.2944 256.2025 L-400.2944 244.2025 L-405.2944 247.2025 L-410.2944 244.2025 Z" clip-path="url(#clipPath2)" stroke="none"/>
-      <path fill="none" d="M-344.9727 149.1013 L-395.2944 149.1013 L-399.6694 149.7263 L-402.7944 151.6013 L-404.6694 154.7263 L-405.2944 159.1013 L-405.2944 248.2025" clip-path="url(#clipPath2)"/>
-      <path d="M-405.2944 256.2025 L-400.2944 244.2025 L-405.2944 247.2025 L-410.2944 244.2025 Z" clip-path="url(#clipPath2)" stroke="none"/>
+      <path fill="none" d="M-461.0273 149.1013 L-415.2944 149.1013 L-410.9194 149.7263 L-407.7944 151.6013 L-405.9194 154.7263 L-405.2944 159.1013 L-405.2944 232.2261" clip-path="url(#clipPath2)"/>
+      <path d="M-405.2944 240.2261 L-400.2944 228.2261 L-405.2944 231.2261 L-410.2944 228.2261 Z" clip-path="url(#clipPath2)" stroke="none"/>
+      <path fill="none" d="M-344.9727 149.1013 L-395.2944 149.1013 L-399.6694 149.7263 L-402.7944 151.6013 L-404.6694 154.7263 L-405.2944 159.1013 L-405.2944 232.2261" clip-path="url(#clipPath2)"/>
+      <path d="M-405.2944 240.2261 L-400.2944 228.2261 L-405.2944 231.2261 L-410.2944 228.2261 Z" clip-path="url(#clipPath2)" stroke="none"/>
       <path fill="none" d="M-281.6296 336.9804 L79 336.9804 L83.375 336.3554 L86.5 334.4804 L88.375 331.3554 L89 326.9804 L89 249 L89.625 244.625 L91.5 241.5 L94.625 239.625 L99 239 L323.1162 239" clip-path="url(#clipPath2)"/>
       <path d="M331.1162 239 L319.1162 234 L322.1162 239 L319.1162 244 Z" clip-path="url(#clipPath2)" stroke="none"/>
       <path fill="none" d="M331.0864 695 L-98.4232 695 L-102.7982 695.625 L-105.9232 697.5 L-107.7982 700.625 L-108.4232 705 L-108.4232 1414 L-107.7982 1418.375 L-105.9232 1421.5 L-102.7982 1423.375 L-98.4232 1424 L-24.9727 1424" clip-path="url(#clipPath2)"/>

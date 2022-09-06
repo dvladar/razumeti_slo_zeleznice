@@ -112,7 +112,8 @@
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,688,491)" stroke-linecap="butt">
       <path fill="none" d="M331.1094 -32 L417 -106 L502.8906 -32 L417 42 Z" fill-rule="evenodd" clip-path="url(#clipPath2)"/>
-      <text x="376.7432" xml:space="preserve" y="-27.4648" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">Ali imaš kolo?</text>
+      <text x="363.9961" xml:space="preserve" y="-34.5312" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">Ali bi na vlak želel</text>
+      <text x="372.7148" xml:space="preserve" y="-20.3984" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">vzeti tudi kolo?</text>
     </g>
     <g fill="rgb(255,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,688,491)" stroke="rgb(255,204,0)">
       <path d="M3.1094 -32 L89 -106 L174.8906 -32 L89 42 Z" fill-rule="evenodd" clip-path="url(#clipPath2)" stroke="none"/>
@@ -156,19 +157,20 @@
       <text x="-614.9502" xml:space="preserve" y="160.7028" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">na vlaku (CASH)!</text>
     </g>
     <g fill="rgb(255,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,688,491)" stroke="rgb(255,204,0)">
-      <rect x="-511.2671" width="211.9453" height="161.5558" y="256.2025" clip-path="url(#clipPath2)" stroke="none"/>
+      <rect x="-533.2237" width="255.8587" height="161.5558" y="256.2025" clip-path="url(#clipPath2)" stroke="none"/>
     </g>
     <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,688,491)" stroke-linecap="butt">
-      <rect fill="none" x="-511.2671" width="211.9453" height="161.5558" y="256.2025" clip-path="url(#clipPath2)"/>
-      <text x="-472.2671" y="284.9843" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">Išči vlak, ki sprejema </text>
-      <text x="-480.9653" y="299.1171" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">kolesa - na druge vlake </text>
-      <text x="-435.895" y="313.2499" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">ne moreš!</text>
-      <text x="-407.2719" y="327.3827" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve"> </text>
-      <text x="-493.062" y="341.5155" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">POZOR: Na vlaku se ugotovi,</text>
-      <text x="-473.4096" y="355.6483" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">ali je prostor za kolo! </text>
-      <text x="-500.2192" y="369.7812" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">Tvoja vožnja NI zagotovoljena,</text>
-      <text x="-500.102" y="383.914" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">zato se za kolo doplača SAMO </text>
-      <text x="-433.396" y="398.0468" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">na vlaku!</text>
+      <rect fill="none" x="-533.2237" width="255.8587" height="161.5558" y="256.2025" clip-path="url(#clipPath2)"/>
+      <text x="-472.2671" y="277.9179" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">Išči vlak, ki sprejema </text>
+      <text x="-495.4057" y="292.0507" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">kolesa - VPRAŠAJ na okencu!</text>
+      <text x="-510.6577" y="306.1835" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">Samo na ICS ne moreš s kolesom, </text>
+      <text x="-515.5122" y="320.3163" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">drugje je to "odvisno" od dogovora.</text>
+      <text x="-407.2719" y="334.4491" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve"> </text>
+      <text x="-493.062" y="348.5819" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">POZOR: Na vlaku se ugotovi,</text>
+      <text x="-473.4096" y="362.7148" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">ali je prostor za kolo! </text>
+      <text x="-500.2192" y="376.8476" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">Tvoja vožnja NI zagotovoljena,</text>
+      <text x="-500.102" y="390.9804" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">zato se za kolo doplača SAMO </text>
+      <text x="-433.396" y="405.1132" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve">na vlaku!</text>
     </g>
     <g fill="rgb(255,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,688,491)" stroke="rgb(255,204,0)">
       <path d="M331.1094 695 L417 621 L502.8906 695 L417 769 Z" fill-rule="evenodd" clip-path="url(#clipPath2)" stroke="none"/>
@@ -270,7 +272,7 @@
       <path d="M-405.2944 256.2025 L-400.2944 244.2025 L-405.2944 247.2025 L-410.2944 244.2025 Z" clip-path="url(#clipPath2)" stroke="none"/>
       <path fill="none" d="M-344.9727 149.1013 L-395.2944 149.1013 L-399.6694 149.7263 L-402.7944 151.6013 L-404.6694 154.7263 L-405.2944 159.1013 L-405.2944 248.2025" clip-path="url(#clipPath2)"/>
       <path d="M-405.2944 256.2025 L-400.2944 244.2025 L-405.2944 247.2025 L-410.2944 244.2025 Z" clip-path="url(#clipPath2)" stroke="none"/>
-      <path fill="none" d="M-299.3217 336.9804 L79 336.9804 L83.375 336.3554 L86.5 334.4804 L88.375 331.3554 L89 326.9804 L89 249 L89.625 244.625 L91.5 241.5 L94.625 239.625 L99 239 L323.1162 239" clip-path="url(#clipPath2)"/>
+      <path fill="none" d="M-277.3651 336.9804 L79 336.9804 L83.375 336.3554 L86.5 334.4804 L88.375 331.3554 L89 326.9804 L89 249 L89.625 244.625 L91.5 241.5 L94.625 239.625 L99 239 L323.1162 239" clip-path="url(#clipPath2)"/>
       <path d="M331.1162 239 L319.1162 234 L322.1162 239 L319.1162 244 Z" clip-path="url(#clipPath2)" stroke="none"/>
       <path fill="none" d="M331.0864 695 L-98.4232 695 L-102.7982 695.625 L-105.9232 697.5 L-107.7982 700.625 L-108.4232 705 L-108.4232 1414 L-107.7982 1418.375 L-105.9232 1421.5 L-102.7982 1423.375 L-98.4232 1424 L-24.9727 1424" clip-path="url(#clipPath2)"/>
       <path d="M-16.9727 1424 L-28.9727 1419 L-25.9727 1424 L-28.9727 1429 Z" clip-path="url(#clipPath2)" stroke="none"/>
